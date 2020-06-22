@@ -1,5 +1,7 @@
 # Piano interview task
 
+![Piano](./assets/preview.png)
+
 I’m not quite sure what to invent for the candidates, but this old project should help me with.
 
 ## Task
